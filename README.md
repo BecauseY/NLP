@@ -1,2 +1,2 @@
 # NLP
-自然语言处理
+针对中文的语言处理：jieba,snownlp
